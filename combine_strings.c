@@ -35,6 +35,7 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+
 char* intersperse(char string1[], char string2[]) {
     char *new, *pnew, *s1, *s2;
     int i;
